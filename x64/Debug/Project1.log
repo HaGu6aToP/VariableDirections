@@ -1,0 +1,12 @@
+﻿  MainForm.cpp
+C:\Users\user\Desktop\Lab\СИС\2\Project1\MainForm.cpp(208,1592): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\user\Desktop\Lab\СИС\2\Project1\MainForm.cpp(446,5): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+C:\Users\user\Desktop\Lab\СИС\2\Project1\MainForm.cpp(446,5): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\Lab\СИС\2\Project1\MainForm.cpp(447,5): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+C:\Users\user\Desktop\Lab\СИС\2\Project1\MainForm.cpp(447,5): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\Lab\СИС\2\Project1\MainForm.cpp(448,5): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+C:\Users\user\Desktop\Lab\СИС\2\Project1\MainForm.cpp(448,5): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\Lab\СИС\2\Project1\MainForm.cpp(435,8): warning C4101: flag: неиспользованная локальная переменная
+C:\Users\user\Desktop\Lab\СИС\2\Project1\MainForm.cpp(620,10): warning C4101: dmScreenSettings: неиспользованная локальная переменная
+C:\Users\user\Desktop\Lab\СИС\2\Project1\MainForm.cpp(672,19): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Project1.vcxproj -> C:\Users\user\Desktop\Lab\СИС\2\Project1\x64\Debug\Project1.exe
